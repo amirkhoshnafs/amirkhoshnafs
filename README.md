@@ -1,24 +1,73 @@
+<div align="center">
+
 ### M.S. Statistician | Machine Learning Engineer
 
 I build robust, production-grade pipelines across the full data stack — **ETL & Data Modeling**, **Statistical Analysis & BI**, **Tabular ML**, and **Computer Vision**. My background in Statistics (M.S.) drives my approach: I prioritize uncertainty estimation, rigorous evaluation metrics, and interpretable architectures over chasing state-of-the-art benchmarks blindly.
+
+<p>
+  <img src="https://img.shields.io/badge/Statistics-M.S._Statistician-blue?style=flat-square" alt="M.S. Statistician">
+  <img src="https://img.shields.io/badge/Machine_Learning-Engineer-purple?style=flat-square" alt="Machine Learning Engineer">
+  <img src="https://img.shields.io/badge/Open_to-Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-brightgreen?style=flat-square" alt="Open to work">
+</p>
+
+</div>
 
 ---
 
 #### 🎬 Live Demos — Computer Vision & ML Engineering
 
-| **nut-counting-system** | **Harborwatch** |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" height="240"> | <img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" height="240"> |
-| Real-time tracking & counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation. | Small-vessel detection & maritime surveillance using transformer-based vision, optimized for edge deployment. |
+<table>
+  <tr>
+    <th width="50%">🥜 <a href="https://github.com/amirkhoshnafs/nut-counting-system">nut-counting-system</a></th>
+    <th width="50%">🚢 <a href="https://github.com/amirkhoshnafs/Harborwatch">Harborwatch</a></th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/amirkhoshnafs/nut-counting-system"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" height="240"></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/amirkhoshnafs/Harborwatch"><img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" height="240"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">Real-time tracking &amp; counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation.</td>
+    <td align="center" valign="top">Small-vessel detection &amp; maritime surveillance using transformer-based vision, optimized for edge deployment.</td>
+  </tr>
+</table>
 
 #### 📊 Live Artifacts — Data Science & Data Analysis
 
-| **financial-inclusion-ml — Data Science** | **financial-inclusion-ml — Data Analysis** |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" height="420"> | <img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" height="420"> |
-| Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model. | Weighted EDA & country clustering across 144,090 respondents × 140 economies. |
+<sub>Click any figure to open it in full resolution.</sub>
 
-*Data Engineering under the hood: the same repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules.*
+<table>
+  <tr>
+    <th>🔬 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Science</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" height="420"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>🌍 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Analysis</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" height="420"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Weighted EDA &amp; country clustering across 144,090 respondents × 140 economies.</td>
+  </tr>
+</table>
+
+> *Data Engineering under the hood: the same repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules.*
 
 ---
 
@@ -45,6 +94,10 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
 
 ---
 
+<div align="center">
+
 **📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global), and Hybrid/On-site roles in Izmir/Istanbul, Turkey.
 
 **Languages:** Turkish · English · Persian · Azerbaijani · Arabic (basic)
+
+</div>
