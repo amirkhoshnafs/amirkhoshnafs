@@ -23,10 +23,10 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/amirkhoshnafs/nut-counting-system"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" height="240"></a>
+      <a href="https://github.com/amirkhoshnafs/nut-counting-system"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" width="100%"></a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/amirkhoshnafs/Harborwatch"><img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" height="240"></a>
+      <a href="https://github.com/amirkhoshnafs/Harborwatch"><img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" width="100%"></a>
     </td>
   </tr>
   <tr>
@@ -41,11 +41,11 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
 
 <table>
   <tr>
-    <th>🔬 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Science</th>
+    <th width="100%">🔬 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Science</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" height="420"></a>
+      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" width="60%"></a>
     </td>
   </tr>
   <tr>
@@ -55,11 +55,11 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
 
 <table>
   <tr>
-    <th>🌍 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Analysis</th>
+    <th width="100%">🌍 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Analysis</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" height="420"></a>
+      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" width="60%"></a>
     </td>
   </tr>
   <tr>
