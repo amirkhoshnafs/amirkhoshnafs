@@ -8,14 +8,14 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
 
 | **nut-counting-system** | **Harborwatch** |
 |:---:|:---:|
-| ![Nut Counting Demo](https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif) | ![Harborwatch Demo](https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif) |
+| <img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" height="240"> | <img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" height="240"> |
 | Real-time tracking & counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation. | Small-vessel detection & maritime surveillance using transformer-based vision, optimized for edge deployment. |
 
 #### 📊 Live Artifacts — Data Science & Data Analysis
 
 | **financial-inclusion-ml — Data Science** | **financial-inclusion-ml — Data Analysis** |
 |:---:|:---:|
-| ![SHAP Explanations](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png) | ![Country Clusters](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png) |
+| <img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" height="420"> | <img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" height="420"> |
 | Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model. | Weighted EDA & country clustering across 144,090 respondents × 140 economies. |
 
 *Data Engineering under the hood: the same repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules.*
