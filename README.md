@@ -87,13 +87,6 @@ I build robust, production-grade pipelines across the full data stack — **ETL 
 - **[Transaction Fraud Analytics](https://khoshnafs.netlify.app):** *DS · DA* — Transaction risk scoring under class imbalance with precision–recall & threshold analysis.
 - **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory):** *ENG* — Local-first project memory architecture for LLM coding assistants.
 
-#### 📝 Recent Technical Writing
-- *Why I chose RF-DETR over YOLOv8 for Small Object Detection* (Article Coming Soon)
-- *Applying Bayesian Uncertainty to Bounding Box Regression* (Article Coming Soon)
-- *Anatomy of a Reproducible ETL Pipeline for Tabular ML* (Article Coming Soon)
-
----
-
 <div align="center">
 
 **📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global), and Hybrid/On-site roles in Izmir/Istanbul, Turkey.
