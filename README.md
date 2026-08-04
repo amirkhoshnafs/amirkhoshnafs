@@ -1,58 +1,50 @@
-### Amir Khoshnafs — Data Scientist & Machine Learning Engineer
-*Also covering: Data Engineering · Data Analysis · BI & Forecasting*
+### M.S. Statistician | Machine Learning Engineer
 
-I work across the **full data value chain** — designing ETL pipelines and data models, producing decision-ready analysis and BI artifacts, and shipping production-grade machine learning: interpretable tabular models, forecasting, and real-time computer-vision systems.
-
-🎓 M.Sc. Statistics (Ege University) · B.Sc. Economics (Dokuz Eylül University) — 📍 Izmir, Türkiye
+I build robust, production-grade pipelines across the full data stack — **ETL & Data Modeling**, **Statistical Analysis & BI**, **Tabular ML**, and **Computer Vision**. My background in Statistics (M.S.) drives my approach: I prioritize uncertainty estimation, rigorous evaluation metrics, and interpretable architectures over chasing state-of-the-art benchmarks blindly.
 
 ---
 
-#### 🎬 Live Demos — ML Engineering & Computer Vision
+#### 🎬 Live Demos — Computer Vision & ML Engineering
 
 | **nut-counting-system** | **Harborwatch** |
 |:---:|:---:|
-| ![Nut counting demo](https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif) | ![Harborwatch demo](https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif) |
-| Real-time detection, tracking & counting (YOLO-NAS + ByteTrack) with confidence calibration and count-uncertainty estimates. | Maritime small-vessel detection (RF-DETR) with a full CVAT → COCO annotation & evaluation workflow. |
+| ![Nut Counting Demo](https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif) | ![Harborwatch Demo](https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif) |
+| Real-time tracking & counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation. | Small-vessel detection & maritime surveillance using transformer-based vision, optimized for edge deployment. |
 
 #### 📊 Live Artifacts — Data Science & Data Analysis
 
-| **Data Science — financial-inclusion-ml** | **Data Analysis — financial-inclusion-ml** |
+| **financial-inclusion-ml — Data Science** | **financial-inclusion-ml — Data Analysis** |
 |:---:|:---:|
-| ![SHAP beeswarm](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png) | ![Country clusters](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png) |
-| Interpretable ML: SHAP explanations of an XGBoost model over 144,090 respondents × 140 economies. | Weighted EDA & country clustering on World Bank Findex microdata. |
+| ![SHAP Explanations](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png) | ![Country Clusters](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png) |
+| Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model. | Weighted EDA & country clustering across 144,090 respondents × 140 economies. |
 
-*Data Engineering under the hood: this repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules and gitignored artifacts.*
-
----
-
-#### 🧭 Competencies by Role
-
-**Data Engineering** — ETL design & reproducible pipelines; dimensional data modeling (star schema); data-quality checks; layered storage (raw / interim / processed Parquet); SQL; YAML/JSON; Git · Docker · Linux.
-
-**Data Analysis & BI** — weighted EDA; KPI reporting; customer segmentation, retention & value analysis; dashboarding; SQL · pandas/Polars · Power BI · Tableau · Excel · Streamlit · HTML dashboards.
-
-**Data Science & Statistics** — statistical modeling & econometrics; hypothesis testing; PCA/clustering; forecasting (ARIMA/SARIMA, exponential smoothing); class-imbalance handling; threshold & precision–recall analysis; SHAP interpretability; scikit-learn · XGBoost · LightGBM · CatBoost · statsmodels.
-
-**ML Engineering & Computer Vision** — detection/tracking/segmentation pipelines; annotation workflows (CVAT, COCO); evaluation & offline inference artifacts; PyTorch · OpenCV · YOLO/YOLO-NAS · RF-DETR · ByteTrack · DeepSORT · ONNX · Docker.
+*Data Engineering under the hood: the same repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules.*
 
 ---
+
+#### 🛠️ Core Competencies
+- **Data Engineering & Modeling:** ETL pipeline design, dimensional data modeling (star schema), data-quality checks, layered Parquet storage (raw / interim / processed), SQL, YAML/JSON.
+- **Data Analysis & BI:** Weighted EDA, KPI reporting, customer segmentation/retention/value analysis, dashboarding; pandas/Polars, Power BI, Tableau, Streamlit, HTML dashboards.
+- **Data Science & Statistics:** Statistical modeling & econometrics, hypothesis testing, PCA/clustering, forecasting (ARIMA/SARIMA, exponential smoothing), class-imbalance & threshold analysis, SHAP interpretability.
+- **Computer Vision:** Object Detection & Tracking (YOLO-NAS, ByteTrack), Transformer-based Vision (DETR, RF-DETR), Edge Deployment.
+- **MLOps & Engineering:** Python, PyTorch, Docker, CI/CD pipelines, Local-first LLM tooling.
 
 #### 📌 Featured Projects
+- **[nut-counting-system](https://github.com/amirkhoshnafs/nut-counting-system):** *MLE · CV · DE* — Industrial CV pipeline for real-time tracking/counting, with statistical confidence calibration, CSV logging, and a Streamlit dashboard.
+- **[Harborwatch](https://github.com/amirkhoshnafs/Harborwatch):** *MLE · CV* — Maritime small-vessel detection optimized for challenging edge conditions; full CVAT → COCO annotation workflow.
+- **[financial-inclusion-ml](https://github.com/amirkhoshnafs/financial-inclusion-ml):** *DS · DA · DE* — End-to-end predictive modeling on World Bank Findex microdata, with a reproducible ETL layer, weighted EDA, SHAP, and threshold analysis.
+- **[Olist E-Commerce Analytics](https://khoshnafs.netlify.app):** *DA · DE* — SQL-modeled BI dashboarding for revenue, delivery performance, seller KPIs, and customer value.
+- **[Sales Forecasting Workflow](https://khoshnafs.netlify.app):** *DS · DA* — Trend/seasonality analysis, time-based validation, exponential smoothing, MAE/RMSE/MAPE reporting.
+- **[Transaction Fraud Analytics](https://khoshnafs.netlify.app):** *DS · DA* — Transaction risk scoring under class imbalance with precision–recall & threshold analysis.
+- **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory):** *ENG* — Local-first project memory architecture for LLM coding assistants.
 
-- **[nut-counting-system](https://github.com/amirkhoshnafs/nut-counting-system)** · *MLE / CV / DE* — production-style video-analytics pipeline: line-crossing counts, CSV logging, Streamlit dashboard, statistical calibration.
-- **[Harborwatch](https://github.com/amirkhoshnafs/Harborwatch)** · *MLE / CV* — end-to-end maritime detection: frame sampling → CVAT → COCO validation → RF-DETR training → inference artifacts.
-- **[financial-inclusion-ml](https://github.com/amirkhoshnafs/financial-inclusion-ml)** · *DS / DA / DE* — reproducible ETL + weighted EDA + logistic/XGBoost benchmarks + SHAP + threshold analysis + country profiling.
-- **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory)** · *ENG* — local-first project-memory tooling for LLM coding assistants.
-- **[Olist E-Commerce Analytics](https://khoshnafs.netlify.app)** · *DA / DE* — SQL-modeled BI dashboarding: revenue, delivery performance, seller KPIs, customer value.
-- **[Sales Forecasting Workflow](https://khoshnafs.netlify.app)** · *DS / DA* — trend/seasonality analysis, time-based validation, exponential smoothing, MAE/RMSE/MAPE reporting.
-- **[Transaction Fraud Analytics](https://khoshnafs.netlify.app)** · *DS / DA* — transaction risk scoring under class imbalance with precision–recall & threshold analysis.
-
-#### 📝 Technical Writing (in progress)
-- *Why I chose RF-DETR over YOLOv8 for small-object detection*
-- *Applying Bayesian uncertainty to bounding-box regression*
-- *Anatomy of a reproducible ETL pipeline for tabular ML*
+#### 📝 Recent Technical Writing
+- *Why I chose RF-DETR over YOLOv8 for Small Object Detection* (Article Coming Soon)
+- *Applying Bayesian Uncertainty to Bounding Box Regression* (Article Coming Soon)
+- *Anatomy of a Reproducible ETL Pipeline for Tabular ML* (Article Coming Soon)
 
 ---
 
-**📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global) · on-site/hybrid (Izmir, Istanbul)
-**🗣 Languages:** Turkish · English · Persian · Azerbaijani · Arabic (basic)
+**📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global), and Hybrid/On-site roles in Izmir/Istanbul, Turkey.
+
+**Languages:** Turkish · English · Persian · Azerbaijani · Arabic (basic)
