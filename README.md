@@ -1,37 +1,58 @@
-### M.S. Statistician | Machine Learning Engineer
+### Amir Khoshnafs — Data Scientist & Machine Learning Engineer
+*Also covering: Data Engineering · Data Analysis · BI & Forecasting*
 
-I build robust, production-grade machine learning pipelines with a focus on **Computer Vision** and **Tabular Data**. My background in Statistics (M.S.) drives my approach to ML: I prioritize uncertainty estimation, rigorous evaluation metrics, and interpretable architectures over chasing state-of-the-art benchmarks blindly.
+I work across the **full data value chain** — designing ETL pipelines and data models, producing decision-ready analysis and BI artifacts, and shipping production-grade machine learning: interpretable tabular models, forecasting, and real-time computer-vision systems.
+
+🎓 M.Sc. Statistics (Ege University) · B.Sc. Economics (Dokuz Eylül University) — 📍 Izmir, Türkiye
 
 ---
 
-#### 🎬 Live Demos
+#### 🎬 Live Demos — ML Engineering & Computer Vision
 
 | **nut-counting-system** | **Harborwatch** |
 |:---:|:---:|
-| ![Nut Counting Demo](https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif) | ![Harborwatch Demo](https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif) |
-| Real-time tracking & counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation. | Small-vessel detection & maritime surveillance using transformer-based vision, optimized for edge deployment. |
+| ![Nut counting demo](https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif) | ![Harborwatch demo](https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif) |
+| Real-time detection, tracking & counting (YOLO-NAS + ByteTrack) with confidence calibration and count-uncertainty estimates. | Maritime small-vessel detection (RF-DETR) with a full CVAT → COCO annotation & evaluation workflow. |
 
-| **financial-inclusion-ml** |
-|:---:|
-| ![SHAP Explanations](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png) |
-| Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model. |
+#### 📊 Live Artifacts — Data Science & Data Analysis
+
+| **Data Science — financial-inclusion-ml** | **Data Analysis — financial-inclusion-ml** |
+|:---:|:---:|
+| ![SHAP beeswarm](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png) | ![Country clusters](https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png) |
+| Interpretable ML: SHAP explanations of an XGBoost model over 144,090 respondents × 140 economies. | Weighted EDA & country clustering on World Bank Findex microdata. |
+
+*Data Engineering under the hood: this repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules and gitignored artifacts.*
+
+---
+
+#### 🧭 Competencies by Role
+
+**Data Engineering** — ETL design & reproducible pipelines; dimensional data modeling (star schema); data-quality checks; layered storage (raw / interim / processed Parquet); SQL; YAML/JSON; Git · Docker · Linux.
+
+**Data Analysis & BI** — weighted EDA; KPI reporting; customer segmentation, retention & value analysis; dashboarding; SQL · pandas/Polars · Power BI · Tableau · Excel · Streamlit · HTML dashboards.
+
+**Data Science & Statistics** — statistical modeling & econometrics; hypothesis testing; PCA/clustering; forecasting (ARIMA/SARIMA, exponential smoothing); class-imbalance handling; threshold & precision–recall analysis; SHAP interpretability; scikit-learn · XGBoost · LightGBM · CatBoost · statsmodels.
+
+**ML Engineering & Computer Vision** — detection/tracking/segmentation pipelines; annotation workflows (CVAT, COCO); evaluation & offline inference artifacts; PyTorch · OpenCV · YOLO/YOLO-NAS · RF-DETR · ByteTrack · DeepSORT · ONNX · Docker.
 
 ---
 
-#### 🛠️ Core Competencies
-- **Computer Vision:** Object Detection & Tracking (YOLO-NAS, ByteTrack), Transformer-based Vision (DETR, RF-DETR), Edge Deployment.
-- **Tabular ML & Statistics:** Causal Inference, Imputation Strategies, Bayesian Uncertainty, Feature Engineering.
-- **MLOps & Engineering:** Python, PyTorch, Docker, CI/CD pipelines, Local-first LLM tooling.
+#### 📌 Featured Projects
 
-#### 📌 Featured Engineering Projects
-- **[nut-counting-system](https://github.com/amirkhoshnafs/nut-counting-system):** Industrial CV pipeline for real-time tracking/counting. Features statistical confidence calibration and count uncertainty estimation.
-- **[Harborwatch](https://github.com/amirkhoshnafs/Harborwatch):** Maritime small-vessel detection optimized for challenging edge conditions.
-- **[financial-inclusion-ml](https://github.com/amirkhoshnafs/financial-inclusion-ml):** End-to-end predictive modeling on World Bank Findex microdata.
-- **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory):** Local-first project memory architecture for LLM coding assistants.
+- **[nut-counting-system](https://github.com/amirkhoshnafs/nut-counting-system)** · *MLE / CV / DE* — production-style video-analytics pipeline: line-crossing counts, CSV logging, Streamlit dashboard, statistical calibration.
+- **[Harborwatch](https://github.com/amirkhoshnafs/Harborwatch)** · *MLE / CV* — end-to-end maritime detection: frame sampling → CVAT → COCO validation → RF-DETR training → inference artifacts.
+- **[financial-inclusion-ml](https://github.com/amirkhoshnafs/financial-inclusion-ml)** · *DS / DA / DE* — reproducible ETL + weighted EDA + logistic/XGBoost benchmarks + SHAP + threshold analysis + country profiling.
+- **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory)** · *ENG* — local-first project-memory tooling for LLM coding assistants.
+- **[Olist E-Commerce Analytics](https://khoshnafs.netlify.app)** · *DA / DE* — SQL-modeled BI dashboarding: revenue, delivery performance, seller KPIs, customer value.
+- **[Sales Forecasting Workflow](https://khoshnafs.netlify.app)** · *DS / DA* — trend/seasonality analysis, time-based validation, exponential smoothing, MAE/RMSE/MAPE reporting.
+- **[Transaction Fraud Analytics](https://khoshnafs.netlify.app)** · *DS / DA* — transaction risk scoring under class imbalance with precision–recall & threshold analysis.
 
-#### 📝 Recent Technical Writing
-- *Why I chose RF-DETR over YOLOv8 for Small Object Detection* (Article Coming Soon)
-- *Applying Bayesian Uncertainty to Bounding Box Regression* (Article Coming Soon)
+#### 📝 Technical Writing (in progress)
+- *Why I chose RF-DETR over YOLOv8 for small-object detection*
+- *Applying Bayesian uncertainty to bounding-box regression*
+- *Anatomy of a reproducible ETL pipeline for tabular ML*
 
 ---
-**📫 Open to:** Remote MLE roles globally, and Hybrid/On-site roles in Izmir/Istanbul, Turkey.
+
+**📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global) · on-site/hybrid (Izmir, Istanbul)
+**🗣 Languages:** Turkish · English · Persian · Azerbaijani · Arabic (basic)
