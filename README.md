@@ -121,7 +121,7 @@ count uncertainty reporting, and a Streamlit interface.
 <td width="50%" valign="top">
 <p><strong>🚢 <a href="https://github.com/amirkhoshnafs/Harborwatch">Harborwatch</a></strong></p>
 <a href="https://github.com/amirkhoshnafs/Harborwatch">
-  <img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_011.gif" alt="Harborwatch demo" width="100%" />
 </a>
 <p>
 Maritime vessel/buoy detection with CVAT annotation,
