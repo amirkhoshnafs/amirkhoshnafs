@@ -1,96 +1,88 @@
+
 <div align="center">
-
-### M.S. Statistician | Machine Learning Engineer
-
-I build robust, production-grade pipelines across the full data stack — **ETL & Data Modeling**, **Statistical Analysis & BI**, **Tabular ML**, and **Computer Vision**. My background in Statistics (M.S.) drives my approach: I prioritize uncertainty estimation, rigorous evaluation metrics, and interpretable architectures over chasing state-of-the-art benchmarks blindly.
-
-<p>
-  <img src="https://img.shields.io/badge/Statistics-M.S._Statistician-blue?style=flat-square" alt="M.S. Statistician">
-  <img src="https://img.shields.io/badge/Machine_Learning-Engineer-purple?style=flat-square" alt="Machine Learning Engineer">
-  <img src="https://img.shields.io/badge/Open_to-Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-brightgreen?style=flat-square" alt="Open to work">
-</p>
-
+  <h1>Amir Khoshnafs</h1>
+  <h3>Data Scientist · Statistical Modeling · Causal Analytics</h3>
+  <p><strong>M.Sc. Statistics Candidate</strong> · B.Sc. Economics</p>
+  <p>I build reproducible analytical systems that connect <strong>data engineering, statistical reasoning, machine learning, and decision support</strong>. My current focus is causal inference and interpretable ML: understanding not just <em>what happened</em>, but what evidence supports a decision.</p>
+  <p><a href="https://khoshnafs.netlify.app/"><strong>Portfolio</strong></a> · <a href="https://github.com/amirkhoshnafs?tab=repositories"><strong>Featured Repositories</strong></a> · <a href="https://huggingface.co/spaces/amirkhoshnafs/causal-campaign-analyst-agent"><strong>Live Causal Analytics App</strong></a></p>
 </div>
 
 ---
 
-#### 🎬 Live Demos — Computer Vision & ML Engineering
+## Featured Work
 
 <table>
-  <tr>
-    <th width="50%">🥜 <a href="https://github.com/amirkhoshnafs/nut-counting-system">nut-counting-system</a></th>
-    <th width="50%">🚢 <a href="https://github.com/amirkhoshnafs/Harborwatch">Harborwatch</a></th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/amirkhoshnafs/nut-counting-system"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" width="100%"></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/amirkhoshnafs/Harborwatch"><img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch demo" width="100%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">Real-time tracking &amp; counting (YOLO-NAS + ByteTrack) with statistical confidence calibration and count uncertainty estimation.</td>
-    <td align="center" valign="top">Small-vessel detection &amp; maritime surveillance using transformer-based vision, optimized for edge deployment.</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔬 <a href="https://github.com/amirkhoshnafs/causal-growth-intelligence">Causal Growth Intelligence</a></h3>
+<a href="https://github.com/amirkhoshnafs/causal-growth-intelligence"><img src="https://raw.githubusercontent.com/amirkhoshnafs/causal-growth-intelligence/main/assets/cover.png" alt="Causal Growth Intelligence project cover" width="100%" /></a>
+<p><strong>Explainable campaign analytics · Python · Streamlit</strong></p>
+<p>Treatment/control pre–post comparisons, directional uplift signals, contextual caveat detection, sensitivity analysis, and transparent decision rules. Accompanied by a 41-page strategy case study.</p>
+<p><a href="https://huggingface.co/spaces/amirkhoshnafs/causal-campaign-analyst-agent"><strong>Live app</strong></a> · <a href="https://github.com/amirkhoshnafs/causal-growth-intelligence"><strong>Source & case study</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🚕 <a href="https://github.com/amirkhoshnafs/nyc-ride-share-intelligence">NYC Ride-Share Intelligence</a></h3>
+<a href="https://github.com/amirkhoshnafs/nyc-ride-share-intelligence"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nyc-ride-share-intelligence/main/assets/dashboard/01-executive-overview.png" alt="NYC Ride-Share Power BI executive-overview layout preview" width="100%" /></a>
+<p><strong>39.02M trips · Power BI · DAX · Power Query</strong></p>
+<p>Five report pages, a nine-table semantic model, 15 explicit DAX measures, and approximately <strong>61% lower VertiPaq memory</strong> after optimization.</p>
+<p><a href="https://github.com/amirkhoshnafs/nyc-ride-share-intelligence"><strong>Dashboard gallery & engineering</strong></a> · <a href="https://drive.google.com/file/d/1Y7_OIB0NW94KsAh9aA6Ox2pxD_lqMl1T/view?usp=sharing"><strong>Full PBIX</strong></a></p>
+</td>
+</tr>
 </table>
 
-#### 📊 Live Artifacts — Data Science & Data Analysis
+<sub>Project note: Causal Growth Intelligence is a rule-based, directional analysis prototype, not a fitted causal-ML model or causal proof. The NYC image is a schematic page-layout preview, not a Power BI Desktop screenshot with live data.</sub>
 
-<sub>Click any figure to open it in full resolution.</sub>
+### 📈 [Financial Inclusion ML](https://github.com/amirkhoshnafs/financial-inclusion-ml)
 
-<table>
-  <tr>
-    <th width="100%">🔬 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Science</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm" width="60%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Interpretable tabular ML on World Bank Findex microdata — SHAP explanations of the final XGBoost model.</td>
-  </tr>
-</table>
+<a href="https://github.com/amirkhoshnafs/financial-inclusion-ml"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/shap_beeswarm.png" alt="SHAP beeswarm explanation of an XGBoost financial-inclusion model" width="70%" /></a>
 
-<table>
-  <tr>
-    <th width="100%">🌍 <a href="https://github.com/amirkhoshnafs/financial-inclusion-ml">financial-inclusion-ml</a> — Data Analysis</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png"><img src="https://raw.githubusercontent.com/amirkhoshnafs/financial-inclusion-ml/main/figures/country_clusters.png" alt="Country clusters" width="60%"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Weighted EDA &amp; country clustering across 144,090 respondents × 140 economies.</td>
-  </tr>
-</table>
+**144,090 respondents · 140 economies · Python · XGBoost · SHAP**
 
-> *Data Engineering under the hood: the same repository ships a reproducible ETL layer (raw CSV → interim → model-ready Parquet) with runnable `src/` modules.*
+World Bank Findex analysis combining weighted exploratory statistics, predictive modeling, and interpretable feature effects. The repository documents data preparation, model comparisons, and evaluation limitations.
+
+[**Explore the model, results, and methodology**](https://github.com/amirkhoshnafs/financial-inclusion-ml)
 
 ---
 
-#### 🛠️ Core Competencies
-- **Data Engineering & Modeling:** ETL pipeline design, dimensional data modeling (star schema), data-quality checks, layered Parquet storage (raw / interim / processed), SQL, YAML/JSON.
-- **Data Analysis & BI:** Weighted EDA, KPI reporting, customer segmentation/retention/value analysis, dashboarding; pandas/Polars, Power BI, Tableau, Streamlit, HTML dashboards.
-- **Data Science & Statistics:** Statistical modeling & econometrics, hypothesis testing, PCA/clustering, forecasting (ARIMA/SARIMA, exponential smoothing), class-imbalance & threshold analysis, SHAP interpretability.
-- **Computer Vision:** Object Detection & Tracking (YOLO-NAS, ByteTrack), Transformer-based Vision (DETR, RF-DETR), Edge Deployment.
-- **MLOps & Engineering:** Python, PyTorch, Docker, CI/CD pipelines, Local-first LLM tooling.
+## Computer Vision & Engineering
 
-#### 📌 Featured Projects
-- **[nut-counting-system](https://github.com/amirkhoshnafs/nut-counting-system):** *MLE · CV · DE* — Industrial CV pipeline for real-time tracking/counting, with statistical confidence calibration, CSV logging, and a Streamlit dashboard.
-- **[Harborwatch](https://github.com/amirkhoshnafs/Harborwatch):** *MLE · CV* — Maritime small-vessel detection optimized for challenging edge conditions; full CVAT → COCO annotation workflow.
-- **[financial-inclusion-ml](https://github.com/amirkhoshnafs/financial-inclusion-ml):** *DS · DA · DE* — End-to-end predictive modeling on World Bank Findex microdata, with a reproducible ETL layer, weighted EDA, SHAP, and threshold analysis.
-- **[Olist E-Commerce Analytics](https://khoshnafs.netlify.app):** *DA · DE* — SQL-modeled BI dashboarding for revenue, delivery performance, seller KPIs, and customer value.
-- **[Sales Forecasting Workflow](https://khoshnafs.netlify.app):** *DS · DA* — Trend/seasonality analysis, time-based validation, exponential smoothing, MAE/RMSE/MAPE reporting.
-- **[Transaction Fraud Analytics](https://khoshnafs.netlify.app):** *DS · DA* — Transaction risk scoring under class imbalance with precision–recall & threshold analysis.
-- **[local-code-memory](https://github.com/amirkhoshnafs/local-code-memory):** *ENG* — Local-first project memory architecture for LLM coding assistants.
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><strong>🥜 <a href="https://github.com/amirkhoshnafs/nut-counting-system">Nut Counting System</a></strong></p>
+<a href="https://github.com/amirkhoshnafs/nut-counting-system"><img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting computer vision demonstration" width="100%" /></a>
+<p>YOLO-NAS + ByteTrack counting pipeline with confidence calibration, count uncertainty reporting, and a Streamlit interface.</p>
+</td>
+<td width="50%" valign="top">
+<p><strong>🚢 <a href="https://github.com/amirkhoshnafs/Harborwatch">Harborwatch</a></strong></p>
+<a href="https://github.com/amirkhoshnafs/Harborwatch"><img src="https://raw.githubusercontent.com/amirkhoshnafs/Harborwatch/main/docs/images/demo_01.gif" alt="Harborwatch maritime object detection demonstration" width="100%" /></a>
+<p>Maritime vessel/buoy detection with CVAT annotation, COCO datasets, RF-DETR training, and structured inference outputs.</p>
+</td>
+</tr>
+</table>
+
+**Also worth exploring:** [Olist E-Commerce Analytics (live dashboard)](https://khoshnafs.netlify.app/Olist%20E-Commerce.html) · [Vehicle Speed Estimation](https://github.com/amirkhoshnafs/vehicle-speed-estimation) · [Local Code Memory](https://github.com/amirkhoshnafs/local-code-memory)
+
+---
+
+## Technical Toolkit
+
+| Area | Tools & methods |
+|:--|:--|
+| **Statistics & causal reasoning** | Experimental design, regression, hypothesis testing, treatment/control comparisons, uncertainty and sensitivity analysis |
+| **Machine learning** | Python, scikit-learn, XGBoost, SHAP, model validation, threshold analysis, PyTorch |
+| **Analytics engineering & BI** | SQL, Power Query, DAX, Power BI, dimensional modeling, ETL, pandas, Polars, Parquet |
+| **Applications & computer vision** | Streamlit, Plotly, OpenCV, YOLO, RF-DETR, ByteTrack |
+| **Development** | Git, GitHub, Linux, Docker, Jupyter |
+
+### Current Research Direction
+
+My ongoing graduate research interests include **heterogeneous treatment effects, causal foundation models, and decision-aware evidence selection**. I am developing these capabilities through statistical study, implementations, and controlled experiments.
+
+---
 
 <div align="center">
-
-**📫 Open to:** Data Engineer · Data Analyst · Data Scientist · ML Engineer — remote (global), and Hybrid/On-site roles in Izmir/Istanbul, Turkey.
-
-**Languages:** Turkish · English · Persian · Azerbaijani · Arabic (basic)
-
+  <p><strong>Open to Data Scientist, Data Analyst, and ML Engineering opportunities</strong><br />Remote · Hybrid · On-site in Türkiye</p>
+  <p><a href="https://khoshnafs.netlify.app/"><strong>Explore my portfolio</strong></a> · <a href="https://github.com/amirkhoshnafs?tab=repositories"><strong>Browse repositories</strong></a></p>
+  <sub>English · Turkish · Persian · Azerbaijani</sub>
 </div>
