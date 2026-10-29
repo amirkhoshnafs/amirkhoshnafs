@@ -28,7 +28,7 @@
 <h3>🔬 <a href="https://github.com/amirkhoshnafs/causal-growth-intelligence">Causal Growth Intelligence</a></h3>
 
 <a href="https://github.com/amirkhoshnafs/causal-growth-intelligence">
-  <img src="https://raw.githubusercontent.com/amirkhoshnafs/causal-growth-intelligence/main/assets/cover.png" alt="Causal Growth Intelligence cover" width="100%" />
+  <img src="https://raw.githubusercontent.com/amirkhoshnafs/causal-growth-intelligence/main/assets/new_cover.png" alt="Causal Growth Intelligence cover" width="100%" />
 </a>
 
 <p><strong>Explainable campaign analytics · Python · Streamlit</strong></p>
