@@ -110,7 +110,7 @@ The repository covers data preparation, model comparisons, and evaluation limita
 <td width="50%" valign="top">
 <p><strong>🥜 <a href="https://github.com/amirkhoshnafs/nut-counting-system">Nut Counting System</a></strong></p>
 <a href="https://github.com/amirkhoshnafs/nut-counting-system">
-  <img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output.gif" alt="Nut counting demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/amirkhoshnafs/nut-counting-system/main/assets/counting_output_1.gif" alt="Nut counting demo" width="100%" />
 </a>
 <p>
 YOLO-NAS + ByteTrack counting pipeline with confidence calibration,
