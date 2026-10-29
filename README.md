@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Amir Khoshnafs</h1>
   <h3>Data Scientist · Machine Learning · Causal Analytics</h3>
-  <p><strong>M.Sc. Statistics Candidate</strong> · B.Sc. Economics</p>
+  <p><strong>M.Sc. Statistics Student</strong> · B.Sc. Economics</p>
 
   <p>
     I build reproducible analytical systems that connect
