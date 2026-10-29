@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Amir Khoshnafs</h1>
-  <h3>Data Scientist · Statistical Modeling · Causal Analytics</h3>
+  <h3>Data Scientist · Machine Learning · Causal Analytics</h3>
   <p><strong>M.Sc. Statistics Candidate</strong> · B.Sc. Economics</p>
 
   <p>
@@ -64,10 +64,6 @@ and approximately <strong>61% lower VertiPaq memory</strong> after optimization.
 </td>
 </tr>
 </table>
-
-> **Project note:**  
-> Causal Growth Intelligence is a rule-based, directional analytics prototype — not a fitted causal-ML model or causal proof.  
-> The NYC image is a schematic page-layout preview, not a Power BI Desktop screenshot with live data.
 
 ---
 
