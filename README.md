@@ -24,6 +24,40 @@
 
 <table>
 <tr>
+<td width="100%" valign="top">
+
+<h3>📈 <a href="https://github.com/amirkhoshnafs/PriceWise">PriceWise — Retail Pricing Intelligence</a></h3>
+
+<a href="https://github.com/amirkhoshnafs/PriceWise">
+  <img src="https://raw.githubusercontent.com/amirkhoshnafs/PriceWise/main/docs/poster.png" alt="PriceWise retail pricing intelligence dashboard" width="100%" />
+</a>
+
+<p><strong>End-to-end ML application · Python · scikit-learn · ONNX · FastAPI · Streamlit</strong></p>
+
+<p>
+Retail pricing decision-support system built on historical supermarket sales data.
+Combines demand forecasting, elasticity-based price-response scenarios,
+historical price guardrails, and three explainable pricing strategies:
+Conservative, Balanced, and Aggressive.
+</p>
+
+<p>
+Includes data engineering, chronological model evaluation, ONNX deployment,
+a REST API, an interactive Streamlit dashboard, and
+<strong>46 automated tests</strong>.
+Pricing outputs are bounded, model-implied scenarios rather than validated causal effects.
+</p>
+
+<p>
+<a href="https://github.com/amirkhoshnafs/PriceWise"><strong>Explore dashboard, source code & methodology</strong></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 <h3>🔬 <a href="https://github.com/amirkhoshnafs/causal-growth-intelligence">Causal Growth Intelligence</a></h3>
 
